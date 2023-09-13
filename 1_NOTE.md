@@ -1,0 +1,1 @@
+Remove keybinding for weapon active skill, instead add weapon skill to available skills (radial menu) and let the user select it that way, they can only be actively casting one thing at a time anyway.

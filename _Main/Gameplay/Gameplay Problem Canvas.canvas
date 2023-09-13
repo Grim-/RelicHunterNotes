@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"### Gameplay Problem\nImagine a power crystal on top of a large wooden platform with vines extending from the ground up to the wooden platform.\n\nYou need this crystal in order to open a door further ahead but there are no visible ways up to it.","id":"0fb5087fb4ef108d","x":-1420,"y":-1320,"width":540,"height":240},
+		{"type":"text","text":"**Solution**\nBurn the platform by either using a fire based spell, throwing item or weapon.\n\n**Requires**\n- Enough Stamina\n- An ability, spell or item with enough range to hit the platform.\n","id":"ea3af1aad4613ad3","x":-1900,"y":-1000,"width":480,"height":248},
+		{"type":"text","text":"**Solution**\nBurn the vines by either using a fire based spell, throwing item or weapon.\n\n**Requires**\n- Enough Stamina\n- An ability, spell or item with enough range to reach a very close distance away\n","id":"a9c90e611b6d34af","x":-1900,"y":-720,"width":580,"height":248},
+		{"type":"text","text":"**Solution**\nPropel yourself up to the platform through Air spells, or other forces.\n\n**Requires**\n- Enough Stamina\n- An ability, spell or item that can successfully move the player up the required height.\n","id":"450b00b01ce2ce49","x":-1900,"y":-440,"width":480,"height":248},
+		{"type":"text","text":"**Solution**\nFind another way to power the door ahead.\n\nThis could for example mean placing a metallic object near the power point and passing an electrical current of a strong enough magnitude to successfully power the door to open.\n\n\n**Requires**\n- Enough Stamina\n- Something that is conductive\n- Some ability, spell or item that can provide the power. (eg an elemental essence or power crystal)\n","id":"70dd7f7f883a6c3e","x":-1900,"y":-160,"width":480,"height":360},
+		{"type":"text","text":"**Solution**\nThrow things at it\n\n**Requires**\n- Enough Stamina\n- Something that is light enough to throw but heavy enough to physically nudge the crystal.\n","id":"c96d5499f965b2e6","x":-1900,"y":240,"width":580,"height":248},
+		{"id":"9c3b1583159aa776","x":-1320,"y":-994,"width":429,"height":118,"type":"text","text":"**Outcome**\nUsing fire bolt on the platform causes the platform to burn eventually destroying it allowing the crystal to fall to the ground and be picked up"},
+		{"id":"762cab46e37a45c8","x":-1180,"y":-723,"width":491,"height":127,"type":"text","text":"**Outcome**\nUsing an equipped torch made from oil, cloth and wood the vines were ignited causing a flammable reaction to burn the platform"}
+	],
+	"edges":[
+		{"id":"c8f37df57920bb49","fromNode":"0fb5087fb4ef108d","fromSide":"bottom","toNode":"ea3af1aad4613ad3","toSide":"top"},
+		{"id":"8f2fe25810981f46","fromNode":"ea3af1aad4613ad3","fromSide":"right","toNode":"9c3b1583159aa776","toSide":"left"},
+		{"id":"65ce65e9c9284b50","fromNode":"a9c90e611b6d34af","fromSide":"right","toNode":"762cab46e37a45c8","toSide":"left"}
+	]
+}

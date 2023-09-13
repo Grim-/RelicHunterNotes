@@ -1,0 +1,1 @@
+This trap trigger will arm it's connected trap when the weight of the objects that are colliding with it pass the threshold value.

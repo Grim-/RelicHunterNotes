@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "8729e72330229ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa679e8ab420ea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "740314f490506238",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d7f10b2efef655d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_NOTE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "413236e5c1234388",
+    "type": "split",
+    "children": [
+      {
+        "id": "e96649c39444a8a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ce59d8e779a4f64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "052e5b814c049611",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "080e567df18dfc2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fc4e3485de84ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5b1cf8f4c05b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c806299a62eb3ff4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_NOTE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7ece98d89114e2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_NOTE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3901d97addc2ff0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9edd147db8f9434",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_NOTE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d7f10b2efef655d",
+  "lastOpenFiles": [
+    "1_NOTE.md",
+    "_Main/Systems/Toolbelt",
+    "_Main/Systems/Contraptions/Trap Sensors/Consensus Trap Trigger.md",
+    "_Main/Systems/Reactions/Conductive.md",
+    "_Main/Systems/Reactions/Physics Rewind.md",
+    "_Main/Systems/Reactions/Physics Freeze.md",
+    "_Main/Systems/Reactions/Magnetic.md",
+    "_Main/Systems/Reactions/Growable.md",
+    "_Main/Systems/Reactions/Flammable.md",
+    "_Main/Systems/Contraptions/Trap Types/Projectile.md",
+    "_Main/Systems/Contraptions/Trap Types/Damage Area.md",
+    "_Main/Systems/Contraptions/Trap Types/Boulder Chase.md",
+    "_Main/Systems/Contraptions/Trap Sensors/Mass Trap Trigger.md",
+    "_Main/Gameplay/Gameplay Problem Canvas.canvas",
+    "_Main/Systems/Combat/Mechanics.md",
+    "_Main/Systems/Contraptions/Trap Types/Untitled",
+    "_Main/Systems/Contraptions/Trap Sensors/Proximity Area Trap Trigger.md",
+    "_Main/Systems/Contraptions/Trap Sensors/Trip wire Trigger.md",
+    "Levels/Stage/Stage Overview.md",
+    "_Main/Systems/Contraptions/Trap Types",
+    "Weapon Animation Sets/1H Mace.md",
+    "Weapon Animation Sets/1H Sword.md",
+    "Weapon Animation Sets/2H Colossal Sword.md",
+    "Weapon Animation Sets/2H Katana.md",
+    "Weapon Animation Sets/2H Spear.md",
+    "Weapon Animation Sets/2H Sword.md",
+    "_Main/Gameplay/Gameplay Overview.md",
+    "_Main/Buffs and Statuses",
+    "Levels/St Percy the Peculiar's Castle/Overview.md",
+    "Levels/St Percy the Peculiar's Castle.md",
+    "Character Resources/Stamina.md",
+    "_Main/World Lore",
+    "_Main/Gameplay",
+    "_Main/Systems/Contraptions/Trap Sensors",
+    "Art Styling",
+    "Levels/St Percy the Peculiar's Castle",
+    "Levels/Stage"
+  ]
+}

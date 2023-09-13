@@ -1,0 +1,1 @@
+A Stage is generally the scene that contains both the hub area and associated temple/dungeon with it

@@ -1,0 +1,1 @@
+There are magical seeds that can be found or bought, that can be then watered in order to trigger their behaviour/growth.
