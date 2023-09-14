@@ -1,0 +1,1 @@
+- The basis of Rune Magic - Runes are the pure form of magic and active form of elemental manipulation, they consume mana and are used for very basic magical functions but if combines with any elemental trigger they create strong elemental magical spells.

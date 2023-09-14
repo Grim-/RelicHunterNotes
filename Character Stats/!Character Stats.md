@@ -1,0 +1,1 @@
+Character stats influence the actions the player can take, either positively (eg increasing base regen to 5) or negatively (reducing movement speed by half)
