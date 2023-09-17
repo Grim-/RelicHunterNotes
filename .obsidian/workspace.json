@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa679e8ab420ea8",
+        "id": "c387575981a012cc",
         "type": "tabs",
         "children": [
           {
-            "id": "740314f490506238",
+            "id": "7ca10df1cd8330de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Introduction to Elemental Triggers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Introduction to Elemental Triggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Introduction to Elemental Triggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Introduction to Elemental Triggers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "740314f490506238",
+  "active": "7ca10df1cd8330de",
   "lastOpenFiles": [
-    "_Main/Systems/Magic (SC)/4. Elemental Triggers/1. Sigil Summoning Skills/1. Summon Water Sigil.md",
-    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/1. Rune of Force.md",
-    "Character Resources/3. Mana.md",
-    "Character Stats/2. Impact Power.md",
-    "Character Stats/15. Size Modifier.md",
-    "Character Stats/14. Stealth Value.md",
-    "Character Stats/13. Attack Speed.md",
-    "Character Stats/14. Casting Speed.md",
-    "Character Stats/12. Movement Speed.md",
-    "Character Stats/11. Mana Regen.md",
-    "Character Stats/10. Stamina Regen.md",
-    "Character Stats/9. Health Regen.md",
-    "Character Stats/4. Impact Resistance.md",
-    "Character Stats/7. Elemental Resistances.md",
-    "Character Stats/6. Elemental Powers.md",
-    "Character Stats/8. Barrier.md",
-    "Levels/St Percy the Peculiar's Castle/Overview.md",
-    "Character Stats/3. Physical Resistance.md",
-    "Character Stats/1. Physical Power.md",
-    "Character Stats/!Character Stats.md",
-    "Character Resources/2. Stamina.md",
-    "Character Resources/1. Health.md",
-    "Character Resources/!CharacterResource.md",
-    "_Main/Systems/Magic (SC)/3. Elements/!. Introduction to Elements.md",
-    "_Main/Systems/Magic (SC)/2. Oil Magic/!. Introduction to Oil Magic.md",
+    "_Main/Systems/Magic (SC)/4. Elemental Triggers/!. Introduction to Elemental Triggers.md",
     "_Main/Systems/Magic (SC)/1. Rune Magic/!Introduction to Rune Magic.md",
+    "_Main/Systems/Magic (SC)/!. Introduction to Magic.md",
+    "_Main/Systems/Magic (SC)/2. Oil Magic/1. Oil Skills/3. Apply Oil.md",
+    "_Main/Systems/Magic (SC)/2. Oil Magic/1. Oil Skills/2. Spill Oil.md",
+    "_Main/Systems/Magic (SC)/2. Oil Magic/1. Oil Skills/1. Throw Oil.md",
+    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/3. Rune of Protection.md",
+    "_Main/Systems/Magic (SC)/2. Oil Magic/!. Introduction to Oil Magic.md",
+    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/6. Rune of Destruction.md",
+    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/5. Rune of Life.md",
+    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/4. Rune of Creation.md",
+    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/2. Rune of Redirection.md",
+    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/1. Rune of Force.md",
+    "_Main/Systems/Magic (SC)/3. Elements/3. Elemental Stats/1. Introduction to Elemental Stats.md",
+    "_Main/Systems/Magic (SC)/3. Elements/3. Elemental Stats/2. Introduction to Elemental Combinations Stats.md",
+    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/4. Decay Element.md",
+    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/1. Steam Element.md",
+    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/3. Ice Element.md",
+    "_Main/Systems/Magic (SC)/3. Elements/1. Basic Elements/1. Water Element.md",
+    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/14. Make believe fake traps (SC).md",
+    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/13. Fake traps (SC).md",
+    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/12. Block a trap (SC).md",
+    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/11. Decoy for continuous activated traps (SC).md",
+    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/10. Decoy for one time activation traps (SC).md",
+    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/9. Bosses with wireless triggers.md",
+    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/2. Nature Element.md",
     "_Main/Systems/Magic (SC)/3. Elements/3. Elemental Stats",
     "_Main/Systems/Magic (SC)/4. Elemental Triggers/1. Sigil Summoning Skills",
     "_Main/Systems/Magic (SC)/4. Elemental Triggers",
