@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"cb5c9e8e0167eda4","type":"group","x":-1834,"y":-1660,"width":1814,"height":680,"label":"Basic Elemental Projectiles/Blasts/Effects/Buffs/Summons/Sigils+Environmental Elemental Trigger"},
+		{"id":"eaab23eb28010e59","type":"text","text":"Fireball\n(Basic Elemental Projectile)","x":-1834,"y":-1626,"width":274,"height":66},
+		{"id":"c264c49fc617ad83","type":"text","text":"Aquawhip\n(Basic Elemental Blast)","x":-1834,"y":-1460,"width":274,"height":60},
+		{"id":"bd6fbd29ad6e4c1b","type":"text","text":"Rock Golem\n(Basic Elemental Summon)","x":-1834,"y":-1300,"width":274,"height":66},
+		{"type":"text","text":"Water Fountain\n(Environmental Elemental Trigger)","id":"0fb5087fb4ef108d","x":-1200,"y":-1626,"width":340,"height":66},
+		{"id":"86528c94c8fef3a9","type":"text","text":"Burning campfire\n(Environmental Elemental Trigger)","x":-1200,"y":-1460,"width":340,"height":60},
+		{"id":"b78fb148e803998c","type":"text","text":"Pressurized Air Pipe\n(Environmental Elemental Trigger)","x":-1200,"y":-1304,"width":340,"height":64},
+		{"id":"f0b8561468a432bf","type":"text","text":"Ethereal Sigil\n(Basic Elemental Sigil)","x":-1834,"y":-1136,"width":274,"height":66},
+		{"id":"73e55779ee35d270","type":"text","text":"Energized Bolder\n(Environmental Elemental Trigger)","x":-1200,"y":-1140,"width":340,"height":64},
+		{"id":"b1e9fc672dd89fe9","type":"text","text":"Magnetic Golem\n(New Combined Elemental Summon)","x":-380,"y":-1300,"width":360,"height":60},
+		{"id":"98d74bf89ba848de","type":"text","text":"Steam Cloud Whip\n(New Combined Elemental Blast)","x":-380,"y":-1460,"width":360,"height":60},
+		{"id":"57a3b941a55044e4","type":"text","text":"Pressurized Steam Ball\n(New Combined Elemental Projectile)","x":-380,"y":-1626,"width":360,"height":66},
+		{"id":"a230304e6c270b81","type":"text","text":"Gravity Sigil\n(New Combined Elemental Summon)","x":-380,"y":-1140,"width":360,"height":60}
+	],
+	"edges":[
+		{"id":"0b856cb005f85ca8","fromNode":"eaab23eb28010e59","fromSide":"right","toNode":"0fb5087fb4ef108d","toSide":"left","label":"Passes through"},
+		{"id":"14f95907e7b25b3a","fromNode":"0fb5087fb4ef108d","fromSide":"right","toNode":"57a3b941a55044e4","toSide":"left","label":"Continues to travel evolved to"},
+		{"id":"0b41a42c08aa426d","fromNode":"c264c49fc617ad83","fromSide":"right","toNode":"86528c94c8fef3a9","toSide":"left","label":"Part of it passes through"},
+		{"id":"14d33908acae2bfa","fromNode":"86528c94c8fef3a9","fromSide":"right","toNode":"98d74bf89ba848de","toSide":"left","label":"Part of it evolves to"},
+		{"id":"4eb72ca23a2d5a22","fromNode":"bd6fbd29ad6e4c1b","fromSide":"right","toNode":"b78fb148e803998c","toSide":"left","label":"Walks Through"},
+		{"id":"a12536efdc3b42ad","fromNode":"b78fb148e803998c","fromSide":"right","toNode":"b1e9fc672dd89fe9","toSide":"left","label":"Evolves to"},
+		{"id":"635bfb8b6795173a","fromNode":"f0b8561468a432bf","fromSide":"right","toNode":"73e55779ee35d270","toSide":"left","label":"Casted Close to"},
+		{"id":"e3fcdd13a6b4a54f","fromNode":"73e55779ee35d270","fromSide":"right","toNode":"a230304e6c270b81","toSide":"left","label":"Evolves to"}
+	]
+}

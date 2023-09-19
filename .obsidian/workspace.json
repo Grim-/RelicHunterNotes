@@ -11,8 +11,15 @@
             "id": "7ca10df1cd8330de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas",
+                "viewState": {
+                  "x": -881.1235045342268,
+                  "y": -1276.3698206809606,
+                  "zoom": -0.6666665649414062
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas"
+              }
             }
           },
           {
@@ -149,6 +160,11 @@
   },
   "active": "7ca10df1cd8330de",
   "lastOpenFiles": [
+    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/9. Magnetism Element.md",
+    "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas",
+    "_Main/Gameplay/Gameplay Problem Canvas.canvas",
+    "_Main/Gameplay/Loop.md",
+    "_Main/Gameplay/Gameplay Overview.md",
     "_Main/Systems/Magic (SC)/4. Elemental Triggers/!. Introduction to Elemental Triggers.md",
     "_Main/Systems/Magic (SC)/1. Rune Magic/!Introduction to Rune Magic.md",
     "_Main/Systems/Magic (SC)/!. Introduction to Magic.md",
@@ -172,9 +188,6 @@
     "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/13. Fake traps (SC).md",
     "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/12. Block a trap (SC).md",
     "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/11. Decoy for continuous activated traps (SC).md",
-    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/10. Decoy for one time activation traps (SC).md",
-    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/9. Bosses with wireless triggers.md",
-    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/2. Nature Element.md",
     "_Main/Systems/Magic (SC)/3. Elements/3. Elemental Stats",
     "_Main/Systems/Magic (SC)/4. Elemental Triggers/1. Sigil Summoning Skills",
     "_Main/Systems/Magic (SC)/4. Elemental Triggers",
@@ -184,7 +197,6 @@
     "_Main/Systems/Magic (SC)/1. Rune Magic",
     "_Main/Systems/Magic (SC)/3. Elements/1. Basic Elements",
     "_Main/Systems/Magic (SC)/3. Elements",
-    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations",
-    "_Main/Gameplay/Gameplay Problem Canvas.canvas"
+    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations"
   ]
 }
