@@ -1,0 +1,2 @@
+
+Relic Hunter is a Gaslamp Fantasy adventure set in a world steeped with magic. Players embark on relic-hunting expeditions, exploring ancient temples and overcoming environmental hazards. From their airship base, players travel to varied locations, acquire powerful relics and loot, and hone their skills and abilities for increasingly demanding challenges.

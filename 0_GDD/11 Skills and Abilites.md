@@ -1,0 +1,1 @@
+**Skill Schools:** While there are no rigid classes, skills loosely fall into various domains of magic or specialized techniques. This adds a sense of thematic cohesion without limiting player experimentation.

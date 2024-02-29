@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c387575981a012cc",
+        "id": "c9b2648c155e9559",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca10df1cd8330de",
+            "id": "e45f9ec14e394ddf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas",
-                "viewState": {
-                  "x": -881.1235045342268,
-                  "y": -1276.3698206809606,
-                  "zoom": -0.6666665649414062
-                }
+                "file": "0_GDD/07 Armour and Resistances.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 432.5
   },
   "right": {
     "id": "2fc4e3485de84ae6",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas",
+                "file": "0_GDD/07 Armour and Resistances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas",
+                "file": "0_GDD/07 Armour and Resistances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas"
+                "file": "0_GDD/07 Armour and Resistances.md"
               }
             }
           },
@@ -138,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -158,45 +157,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ca10df1cd8330de",
+  "active": "e45f9ec14e394ddf",
   "lastOpenFiles": [
-    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/9. Magnetism Element.md",
-    "_Main/Systems/Magic (SC)/4. Elemental Triggers/Trigger System Interactions.canvas",
-    "_Main/Gameplay/Gameplay Problem Canvas.canvas",
-    "_Main/Gameplay/Loop.md",
-    "_Main/Gameplay/Gameplay Overview.md",
-    "_Main/Systems/Magic (SC)/4. Elemental Triggers/!. Introduction to Elemental Triggers.md",
-    "_Main/Systems/Magic (SC)/1. Rune Magic/!Introduction to Rune Magic.md",
-    "_Main/Systems/Magic (SC)/!. Introduction to Magic.md",
-    "_Main/Systems/Magic (SC)/2. Oil Magic/1. Oil Skills/3. Apply Oil.md",
-    "_Main/Systems/Magic (SC)/2. Oil Magic/1. Oil Skills/2. Spill Oil.md",
-    "_Main/Systems/Magic (SC)/2. Oil Magic/1. Oil Skills/1. Throw Oil.md",
-    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/3. Rune of Protection.md",
-    "_Main/Systems/Magic (SC)/2. Oil Magic/!. Introduction to Oil Magic.md",
-    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/6. Rune of Destruction.md",
-    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/5. Rune of Life.md",
-    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/4. Rune of Creation.md",
-    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/2. Rune of Redirection.md",
-    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells/1. Rune of Force.md",
-    "_Main/Systems/Magic (SC)/3. Elements/3. Elemental Stats/1. Introduction to Elemental Stats.md",
-    "_Main/Systems/Magic (SC)/3. Elements/3. Elemental Stats/2. Introduction to Elemental Combinations Stats.md",
-    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/4. Decay Element.md",
-    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/1. Steam Element.md",
-    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations/3. Ice Element.md",
-    "_Main/Systems/Magic (SC)/3. Elements/1. Basic Elements/1. Water Element.md",
-    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/14. Make believe fake traps (SC).md",
-    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/13. Fake traps (SC).md",
-    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/12. Block a trap (SC).md",
-    "_Main/Systems/Contraptions/Trap Disarm Mechanisms (SC)/11. Decoy for continuous activated traps (SC).md",
-    "_Main/Systems/Magic (SC)/3. Elements/3. Elemental Stats",
-    "_Main/Systems/Magic (SC)/4. Elemental Triggers/1. Sigil Summoning Skills",
-    "_Main/Systems/Magic (SC)/4. Elemental Triggers",
-    "_Main/Systems/Magic (SC)/2. Oil Magic/1. Oil Skills",
-    "_Main/Systems/Magic (SC)/2. Oil Magic",
-    "_Main/Systems/Magic (SC)/1. Rune Magic/1. Rune Spells",
-    "_Main/Systems/Magic (SC)/1. Rune Magic",
-    "_Main/Systems/Magic (SC)/3. Elements/1. Basic Elements",
-    "_Main/Systems/Magic (SC)/3. Elements",
-    "_Main/Systems/Magic (SC)/3. Elements/2. Elemental Combinations"
+    "0_GDD/08 Equipment.md",
+    "0_GDD/12 Traits.md",
+    "2_LORE/LORE AND MAGICAL WORLD.md",
+    "0_GDD/09 Relics overview.md",
+    "0_GDD/05 Stats and Primary Resources.md",
+    "0_GDD/15 MAGIC LORE.md",
+    "0_GDD/14 Gameplay Problem Canvas.canvas",
+    "0_GDD/Stats/15. Size Modifier.md",
+    "2_LORE/MAGICAL COMPASS THING.canvas",
+    "2_LORE",
+    "2_Main/0 Systems/5 Reactions/Conductive.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/14. Demonic.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/13. Curse.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/12. Celestial.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/11. Darkness Element.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/9. Decay.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/4. Wind Element.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/8. Light Element.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/4. Void Element.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/3. Frost Element.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/2. Nature Element.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/1. Water Element.md",
+    "2_Main/0 Systems/0 Elements/1. Basic Elements/1. Air.md",
+    "0_GDD/03 Design Intent.md",
+    "0_GDD/02 Gameplay loop.md",
+    "Art Styling/Ideas.md",
+    "0_GDD/07 Armour and Resistances.md",
+    "0_GDD/10 Skill and Relic Acquisition.md",
+    "0_GDD/11 Skills and Abilites.md",
+    "2_Main/5 Ideas General",
+    "0_GDD",
+    "2_Main/0 Systems/6 Statuses",
+    "2_Main/0 Systems/7 Traits",
+    "2_Main/0 Systems/4 Projectile/Projectile Components/Behaviours",
+    "2_Main/0 Systems/4 Projectile/Projectile Components",
+    "2_Main/0 Systems/4 Projectile",
+    "Untitled.canvas",
+    "1_TODO",
+    "2_Main/0 Systems/0 Elements/3. Elemental Stats"
   ]
 }
