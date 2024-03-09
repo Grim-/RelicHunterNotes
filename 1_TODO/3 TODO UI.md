@@ -7,6 +7,8 @@ UIPanels to do
 - Skill Panel (Show skills and also show extended description, costs etc.)
 - Trade Panel(Two panels, Players and Merchants)
 - Finishing Status UI Display (icon, colouring)
+- Traits overview
+- Stats levelling screen
 Much later
 - Dialogue panels
 - Encyclopedia

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"dcd17d814ea95bca","x":220,"y":-105,"width":250,"height":60,"type":"text","text":"BOW AIM STATE"},
+		{"id":"27c81b54446732c3","x":-420,"y":-105,"width":250,"height":60,"type":"text","text":"BOW STATE"},
+		{"id":"3dea2bdeb97d1b6c","x":-60,"y":100,"width":250,"height":60,"type":"text","text":"RELOAD STATE"}
+	],
+	"edges":[
+		{"id":"4bcd5eccc7cc1a36","fromNode":"27c81b54446732c3","fromSide":"right","toNode":"dcd17d814ea95bca","toSide":"left"},
+		{"id":"e829b71de16d56b3","fromNode":"dcd17d814ea95bca","fromSide":"bottom","toNode":"3dea2bdeb97d1b6c","toSide":"right"},
+		{"id":"fc50391e9adea7fd","fromNode":"27c81b54446732c3","fromSide":"bottom","toNode":"3dea2bdeb97d1b6c","toSide":"left"}
+	]
+}

@@ -1,0 +1,1 @@
+- Using the throw item action bar action causes the item not to be consumed 

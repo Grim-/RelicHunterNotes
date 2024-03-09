@@ -1,0 +1,4 @@
+- Jump Pad
+- Tornado (done but needs to be able to specific transform as origin of force so it can be rotated and moved)
+- Projectile weapons, Flamethrower and various chambers need ammo implementation finishing
+- Various treasure props

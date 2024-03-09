@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_GDD/07 Armour and Resistances.md",
+                "file": "1_TODO/0 TODO Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_GDD/07 Armour and Resistances.md",
+                "file": "1_TODO/0 TODO Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_GDD/07 Armour and Resistances.md",
+                "file": "1_TODO/0 TODO Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_GDD/07 Armour and Resistances.md"
+                "file": "1_TODO/0 TODO Main.md"
               }
             }
           },
@@ -157,17 +157,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e45f9ec14e394ddf",
+  "active": "6ce59d8e779a4f64",
   "lastOpenFiles": [
+    "1_TODO/1 TODO BUGS.md",
+    "1_TODO/0 TODO Main.md",
+    "2_Main/0 Systems/4 Projectile/Overview.md",
+    "Untitled/Untitled.canvas",
+    "Untitled",
+    "1_TODO/2 TODO Props.md",
+    "1_TODO/3 TODO UI.md",
+    "0_GDD/01 Relic Hunter - GDD.md",
+    "2_Main/Items",
+    "2_Main/0 Systems/FSM Canvas.canvas",
+    "2_Main/0 Systems/1. Magic System.md",
+    "2_Main/0 Systems/Untitled.md",
+    "Art Styling/Elemental/Elemental VFX Art.md",
+    "Art Styling/Elemental",
+    "2_LORE/MAGICAL COMPASS THING.canvas",
+    "2_LORE/LORE AND MAGICAL WORLD.md",
+    "0_GDD/07 Armour and Resistances.md",
     "0_GDD/08 Equipment.md",
     "0_GDD/12 Traits.md",
-    "2_LORE/LORE AND MAGICAL WORLD.md",
     "0_GDD/09 Relics overview.md",
     "0_GDD/05 Stats and Primary Resources.md",
     "0_GDD/15 MAGIC LORE.md",
     "0_GDD/14 Gameplay Problem Canvas.canvas",
     "0_GDD/Stats/15. Size Modifier.md",
-    "2_LORE/MAGICAL COMPASS THING.canvas",
     "2_LORE",
     "2_Main/0 Systems/5 Reactions/Conductive.md",
     "2_Main/0 Systems/0 Elements/1. Basic Elements/14. Demonic.md",
@@ -178,25 +193,12 @@
     "2_Main/0 Systems/0 Elements/1. Basic Elements/4. Wind Element.md",
     "2_Main/0 Systems/0 Elements/1. Basic Elements/8. Light Element.md",
     "2_Main/0 Systems/0 Elements/1. Basic Elements/4. Void Element.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/3. Frost Element.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/2. Nature Element.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/1. Water Element.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/1. Air.md",
-    "0_GDD/03 Design Intent.md",
-    "0_GDD/02 Gameplay loop.md",
-    "Art Styling/Ideas.md",
-    "0_GDD/07 Armour and Resistances.md",
-    "0_GDD/10 Skill and Relic Acquisition.md",
-    "0_GDD/11 Skills and Abilites.md",
     "2_Main/5 Ideas General",
     "0_GDD",
     "2_Main/0 Systems/6 Statuses",
     "2_Main/0 Systems/7 Traits",
     "2_Main/0 Systems/4 Projectile/Projectile Components/Behaviours",
     "2_Main/0 Systems/4 Projectile/Projectile Components",
-    "2_Main/0 Systems/4 Projectile",
-    "Untitled.canvas",
-    "1_TODO",
-    "2_Main/0 Systems/0 Elements/3. Elemental Stats"
+    "Untitled.canvas"
   ]
 }
