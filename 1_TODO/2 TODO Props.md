@@ -2,3 +2,8 @@
 - Tornado (done but needs to be able to specific transform as origin of force so it can be rotated and moved)
 - Projectile weapons, Flamethrower and various chambers need ammo implementation finishing
 - Various treasure props
+- A statue/piece that you can push back with enough force to reveal passage
+- mass trigger shutting player into area
+- roof coming down from above to crush/stab
+- three sankaras you place in a skull 
+- mine cart + tracks

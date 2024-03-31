@@ -31,8 +31,8 @@ Upon reaching the required XP threshold, players automatically level up. Each le
 - **Health**
 - **Stamina**
 - **Mana**
-- **Attack Power**
-- **Spell Power**
+- **Strength**
+- **Magic**
 
 Leveling up in a specific attribute offers a small, consistent increase to its associated base value. Additionally, certain level milestones within each attribute can grant:
 

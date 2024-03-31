@@ -4,7 +4,7 @@
 
 Relic Hunter's magic system is divided across five Domains: Order, Chaos, Spirit, Physical, and Void. Each Domain houses several schools, representing further specialization in the expression of magical power.
 
-**Order (North)**
+**North (Order)**
 
 - **Domain Focus:** Creation, nurturing, positive influence on the world.
 - **Schools:**

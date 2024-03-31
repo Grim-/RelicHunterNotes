@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9b2648c155e9559",
+        "id": "7ab31f60d33e6929",
         "type": "tabs",
         "children": [
           {
-            "id": "e45f9ec14e394ddf",
+            "id": "60c0974fcbbbe6bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_TODO/0 TODO Main.md",
+                "file": "2_Main/5 Ideas General/Buff & Status Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_TODO/0 TODO Main.md",
+                "file": "2_Main/5 Ideas General/Buff & Status Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_TODO/0 TODO Main.md",
+                "file": "2_Main/5 Ideas General/Buff & Status Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_TODO/0 TODO Main.md"
+                "file": "2_Main/5 Ideas General/Buff & Status Ideas.md"
               }
             }
           },
@@ -157,48 +157,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ce59d8e779a4f64",
+  "active": "60c0974fcbbbe6bc",
   "lastOpenFiles": [
-    "1_TODO/1 TODO BUGS.md",
+    "2_Main/5 Ideas General/Idea List.md",
+    "2_Main/5 Ideas General/Buff & Status Ideas.md",
+    "2_Main/0 Systems/6 Statuses/Overview.md",
+    "2_Main/Items/Weapons/Weapon Overview.md",
     "1_TODO/0 TODO Main.md",
-    "2_Main/0 Systems/4 Projectile/Overview.md",
-    "Untitled/Untitled.canvas",
-    "Untitled",
+    "2_Main/Items/Weapons",
     "1_TODO/2 TODO Props.md",
     "1_TODO/3 TODO UI.md",
-    "0_GDD/01 Relic Hunter - GDD.md",
-    "2_Main/Items",
-    "2_Main/0 Systems/FSM Canvas.canvas",
-    "2_Main/0 Systems/1. Magic System.md",
-    "2_Main/0 Systems/Untitled.md",
-    "Art Styling/Elemental/Elemental VFX Art.md",
-    "Art Styling/Elemental",
+    "1_TODO/1 TODO BUGS.md",
+    "0_GDD/Magic Types and Magic Domains/Magic Types",
+    "0_GDD/Magic Types and Magic Domains/West (Material)/Physical/Strike.md",
+    "0_GDD/Magic Types and Magic Domains/West (Material)/Physical/Gravity.md",
+    "0_GDD/Magic Types and Magic Domains/West (Material)/Physical/Impact.md",
+    "0_GDD/Magic Types and Magic Domains/West (Material)/Physical/Piercing.md",
+    "0_GDD/Magic Types and Magic Domains/South (Chaos)/Destruction/Decay.md",
+    "0_GDD/Magic Types and Magic Domains/West (Material)/Physical",
+    "0_GDD/Magic Types and Magic Domains/West (Material)",
+    "0_GDD/Magic Types and Magic Domains/South (Chaos)/Disharmony/Curse.md",
+    "0_GDD/Magic Types and Magic Domains/South (Chaos)/Destruction",
+    "0_GDD/Magic Types and Magic Domains/South (Chaos)/Disharmony/Demonic.md",
+    "0_GDD/Magic Types and Magic Domains/East (Immaterial)/Immaterial/Celestial.md",
+    "0_GDD/Magic Types and Magic Domains/South (Chaos)/Disharmony",
+    "0_GDD/Magic Types and Magic Domains/South (Chaos)",
+    "0_GDD/Magic Types and Magic Domains/East (Immaterial)/Immaterial/Spirit.md",
+    "0_GDD/Magic Types and Magic Domains/North (Order)/Harmony/Divine.md",
+    "0_GDD/Magic Types and Magic Domains/East (Immaterial)/Immaterial",
+    "0_GDD/Magic Types and Magic Domains/East (Immaterial)",
+    "0_GDD/Magic Types and Magic Domains/North (Order)/Harmony/Life.md",
     "2_LORE/MAGICAL COMPASS THING.canvas",
-    "2_LORE/LORE AND MAGICAL WORLD.md",
-    "0_GDD/07 Armour and Resistances.md",
-    "0_GDD/08 Equipment.md",
-    "0_GDD/12 Traits.md",
-    "0_GDD/09 Relics overview.md",
-    "0_GDD/05 Stats and Primary Resources.md",
-    "0_GDD/15 MAGIC LORE.md",
+    "0_GDD/Magic Types and Magic Domains/North (Order)/Harmony",
+    "0_GDD/Magic Types and Magic Domains/North (Order)/Creation/Nature/Water.md",
+    "0_GDD/Magic Types and Magic Domains/North (Order)/Creation/Nature/Earth.md",
+    "0_GDD/Magic Types and Magic Domains/North (Order)/Creation/Nature/Air.md",
+    "0_GDD/Magic Types and Magic Domains/North (Order)/Creation/Nature/Fire.md",
+    "0_GDD/Magic Types and Magic Domains/North (Order)/Untitled.md",
     "0_GDD/14 Gameplay Problem Canvas.canvas",
-    "0_GDD/Stats/15. Size Modifier.md",
-    "2_LORE",
-    "2_Main/0 Systems/5 Reactions/Conductive.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/14. Demonic.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/13. Curse.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/12. Celestial.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/11. Darkness Element.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/9. Decay.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/4. Wind Element.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/8. Light Element.md",
-    "2_Main/0 Systems/0 Elements/1. Basic Elements/4. Void Element.md",
-    "2_Main/5 Ideas General",
-    "0_GDD",
-    "2_Main/0 Systems/6 Statuses",
-    "2_Main/0 Systems/7 Traits",
-    "2_Main/0 Systems/4 Projectile/Projectile Components/Behaviours",
-    "2_Main/0 Systems/4 Projectile/Projectile Components",
+    "0_GDD/Magic Types and Magic Domains.md",
+    "2_LORE/LORE AND MAGICAL WORLD.md",
+    "Untitled/Untitled.canvas",
+    "2_Main/0 Systems/FSM Canvas.canvas",
     "Untitled.canvas"
   ]
 }

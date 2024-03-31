@@ -1,0 +1,1 @@
+Primarily dictates how much damage you deal with melee attacks, certain items require a certain strength level before they can be equipped.

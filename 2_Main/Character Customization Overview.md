@@ -1,0 +1,1 @@
+Keeping simple, can customize, overall skin color, eyes, facial hair, hair, and starting equipment
