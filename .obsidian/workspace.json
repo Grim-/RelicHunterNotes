@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Main/5 Ideas General/Buff & Status Ideas.md",
+                "file": "0_GDD/Magic Types and Magic Domains/0 North (Order)/Creation/Nature/11 Water.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab729e60d9eff9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_GDD/04 Experience.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Main/5 Ideas General/Buff & Status Ideas.md",
+                "file": "0_GDD/04 Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Main/5 Ideas General/Buff & Status Ideas.md",
+                "file": "0_GDD/04 Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Main/5 Ideas General/Buff & Status Ideas.md"
+                "file": "0_GDD/04 Experience.md"
               }
             }
           },
@@ -157,47 +170,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60c0974fcbbbe6bc",
+  "active": "ab729e60d9eff9fc",
   "lastOpenFiles": [
-    "2_Main/5 Ideas General/Idea List.md",
-    "2_Main/5 Ideas General/Buff & Status Ideas.md",
-    "2_Main/0 Systems/6 Statuses/Overview.md",
-    "2_Main/Items/Weapons/Weapon Overview.md",
-    "1_TODO/0 TODO Main.md",
-    "2_Main/Items/Weapons",
-    "1_TODO/2 TODO Props.md",
+    "0_GDD/06 Experience and Levelling.md",
+    "0_GDD/04 Experience.md",
+    "0_GDD/08 Equipment.md",
+    "0_GDD/11 Skills and Abilites.md",
+    "0_GDD/10 Skill and Relic Acquisition.md",
+    "0_GDD/07 Armour and Resistances.md",
+    "0_GDD/09 Relics overview.md",
+    "0_GDD/13 THE AIR SHIP.md",
+    "0_GDD/15 MAGIC LORE.md",
+    "1_TODO/Items.md",
+    "1_TODO/Ideas.md",
+    "1_TODO/Idea List.md",
     "1_TODO/3 TODO UI.md",
     "1_TODO/1 TODO BUGS.md",
+    "1_TODO/2 TODO Props.md",
+    "1_TODO/0 TODO Main.md",
+    "0_GDD/Magic Types and Magic Domains/0 North (Order)/Harmony/05 Divine.md",
+    "0_GDD/Magic Types and Magic Domains/0 North (Order)/Creation/Nature/Frost School Theme and Combat.canvas",
+    "0_GDD/Magic Types and Magic Domains/0 North (Order)/Creation/Nature/11 Water.md",
+    "Levels/St Percy the Peculiar's Castle/Overview.md",
+    "2_Main/0 Systems/1 Combat/Mechanics.md",
+    "2_Main/Character Customization Overview.md",
+    "Untitled/Untitled.canvas",
+    "2_Main/0 Systems/7 Traits/Traits Overview.md",
+    "0_GDD/12 Traits.md",
+    "2_Main/0 Systems/3 Magic (SC)/2. Oil Magic/1. Oil Skills/1. Throw Oil.md",
+    "2_Main/0 Systems/3 Magic (SC)/2. Oil Magic/1. Oil Skills/2. Spill Oil.md",
+    "2_Main/0 Systems/3 Magic (SC)/4. Elemental Triggers/1. Sigil Summoning Skills/5. Summon Ethereal Sigil.md",
+    "2_Main/Items/Weapons",
     "0_GDD/Magic Types and Magic Domains/Magic Types",
-    "0_GDD/Magic Types and Magic Domains/West (Material)/Physical/Strike.md",
-    "0_GDD/Magic Types and Magic Domains/West (Material)/Physical/Gravity.md",
-    "0_GDD/Magic Types and Magic Domains/West (Material)/Physical/Impact.md",
-    "0_GDD/Magic Types and Magic Domains/West (Material)/Physical/Piercing.md",
-    "0_GDD/Magic Types and Magic Domains/South (Chaos)/Destruction/Decay.md",
     "0_GDD/Magic Types and Magic Domains/West (Material)/Physical",
     "0_GDD/Magic Types and Magic Domains/West (Material)",
-    "0_GDD/Magic Types and Magic Domains/South (Chaos)/Disharmony/Curse.md",
     "0_GDD/Magic Types and Magic Domains/South (Chaos)/Destruction",
-    "0_GDD/Magic Types and Magic Domains/South (Chaos)/Disharmony/Demonic.md",
-    "0_GDD/Magic Types and Magic Domains/East (Immaterial)/Immaterial/Celestial.md",
     "0_GDD/Magic Types and Magic Domains/South (Chaos)/Disharmony",
     "0_GDD/Magic Types and Magic Domains/South (Chaos)",
-    "0_GDD/Magic Types and Magic Domains/East (Immaterial)/Immaterial/Spirit.md",
-    "0_GDD/Magic Types and Magic Domains/North (Order)/Harmony/Divine.md",
     "0_GDD/Magic Types and Magic Domains/East (Immaterial)/Immaterial",
     "0_GDD/Magic Types and Magic Domains/East (Immaterial)",
-    "0_GDD/Magic Types and Magic Domains/North (Order)/Harmony/Life.md",
     "2_LORE/MAGICAL COMPASS THING.canvas",
     "0_GDD/Magic Types and Magic Domains/North (Order)/Harmony",
-    "0_GDD/Magic Types and Magic Domains/North (Order)/Creation/Nature/Water.md",
-    "0_GDD/Magic Types and Magic Domains/North (Order)/Creation/Nature/Earth.md",
-    "0_GDD/Magic Types and Magic Domains/North (Order)/Creation/Nature/Air.md",
-    "0_GDD/Magic Types and Magic Domains/North (Order)/Creation/Nature/Fire.md",
-    "0_GDD/Magic Types and Magic Domains/North (Order)/Untitled.md",
     "0_GDD/14 Gameplay Problem Canvas.canvas",
-    "0_GDD/Magic Types and Magic Domains.md",
-    "2_LORE/LORE AND MAGICAL WORLD.md",
-    "Untitled/Untitled.canvas",
     "2_Main/0 Systems/FSM Canvas.canvas",
     "Untitled.canvas"
   ]

@@ -9,6 +9,7 @@ UIPanels to do
 - Finishing Status UI Display (icon, colouring)
 - Traits overview
 - Stats levelling screen
+- Crafting panel (stations and inventory)
 Much later
 - Dialogue panels
-- Encyclopedia
+- Encyclopedia/beastiary

@@ -13,3 +13,7 @@
     - **Ice Patch:** Freezes an area, causing enemies to slip and take damage.
     - **Torrent:** Unleashes a powerful blast of water to knock back foes.
     - **Mist Form:** Temporarily transforms the caster into a shroud of mist, granting evasion and movement speed.
+
+
+Combat Theme : Creeping damage build, most attacks can apply frost bite
+Frost Bite : A stacking debuff each stack increases frost damage taken by 4% stacking 5 times.

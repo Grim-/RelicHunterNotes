@@ -1,0 +1,1 @@
+- Gravity Boots - allow to fly using stamina instead of wings

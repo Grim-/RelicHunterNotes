@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"46d7b300f4e9221b","type":"text","text":"Frost\n\nDamage is small, most apply a stacking debuff that will cause a shatter at 5 stacks dealing decent-good damage.\n","x":-560,"y":-320,"width":250,"height":215},
+		{"id":"934305cbb55d4c85","type":"text","text":"Shatter\n\nEach stack increases frost damage taken by 5% stacking 5 times, on reaching 5 stacks the target takes 10% HP damage and is slowed by 50% for 5 seconds.\n\n","x":-560,"y":-42,"width":250,"height":291},
+		{"id":"06c8b947f3cf14ba","type":"text","text":"Ice Armour\n\nCoat yourself in hoarfrost, reducing your fire resistance by 30% and movement speed by 15% but while Ice Armour remains active you gain 30 Armour and attackers gain a stack of Shatter.\n\n\n","x":-100,"y":-80,"width":250,"height":329},
+		{"id":"785ccca15130847f","type":"text","text":"Blizzard\nCreate an area of intense cold, targets in this area have a chance of gaining a stack of Shatter. \n","x":-100,"y":280,"width":250,"height":227},
+		{"id":"192209f97bbca6e7","type":"text","text":"Ice Lance\nBy changing your mana to frost and channeling it, you create a large lance like icicle \n\n","x":-104,"y":537,"width":250,"height":243},
+		{"id":"1533b4215099203c","type":"text","text":"Ice Barrage\nChannel a stream of icecles towards the target direction, each target hit by an icicle takes 15 frost damage and gains a stack of Shatter","x":-100,"y":-343,"width":250,"height":238}
+	],
+	"edges":[
+		{"id":"98683fa02fd45252","fromNode":"1533b4215099203c","fromSide":"left","toNode":"934305cbb55d4c85","toSide":"right"},
+		{"id":"224d375acb4352ee","fromNode":"06c8b947f3cf14ba","fromSide":"left","toNode":"934305cbb55d4c85","toSide":"right"},
+		{"id":"b21e466cfd8532d9","fromNode":"785ccca15130847f","fromSide":"left","toNode":"934305cbb55d4c85","toSide":"right"}
+	]
+}
